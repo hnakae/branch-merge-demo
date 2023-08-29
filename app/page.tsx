@@ -1,5 +1,6 @@
 import Image from "next/image";
-import Box from "./components/box";
+import Box from "./components/Box";
+import NewFeature from "./components/NewFeature";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <div>
         <h1>Hello</h1>
         <Box />
+        <NewFeature />
       </div>
     </main>
   );
