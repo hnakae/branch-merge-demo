@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Box from "./components/box";
+import Box from "./components/Box";
 
 export default function Home() {
   return (
