@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const NewFeature = () => {
-  return (
-    <div>NewFeature</div>
-  )
-}
+  return <div>NewFeature!!!</div>;
+};
 
-export default NewFeature
+export default NewFeature;
